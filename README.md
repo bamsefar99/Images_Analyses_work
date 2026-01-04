@@ -9,9 +9,9 @@ The purpose is to showcase visual examples of my skills and work methods.
 ## 📁 Structure
 
 All images are located in the root of this repository:
-- `Analyse of Company employee.png`
-- `Kreditnote by Error 2025.png`
-- `Kreditnote by Error Allyear.png`
+- `Analyse_of_Company_employee.png`
+- `Kreditnote_by_Error_2025.png`
+- `Kreditnote_by_Error_Allyear.png`
 
 ---
 
@@ -39,13 +39,13 @@ This repository is solely for **demonstrating skills** and **work methods**.
 
 Below are previews of the included images:
 
-![Analyse of Company employee](Analyse%20of%20Company%20employee.png)  
+![Employee Age Analysis](Analyse_of_Company_employee.png)  
 *Employee Age Analysis for HR Audit*
 
-![Kreditnote by Error 2025](Kreditnote%20by%20Error%202025.png)  
+![Credit Note Report – Current Year](Kreditnote_by_Error_2025.png)  
 *Credit Note Report – Current Year*
 
-![Kreditnote by Error Allyear](Kreditnote%20by%20Error%20Allyear.png)  
+![Credit Note Report – All Years](Kreditnote_by_Error_Allyear.png)  
 *Credit Note Report – All Years*
 
 ---
@@ -56,6 +56,7 @@ Below are previews of the included images:
 - For multiple images in a grid layout, you can use HTML:
 ```html
 <p align="center">
-  <img src="Analyse%20of%20Company%20employee.png" width="300">
-  <img src="Kreditnote%20by%20Error%202025.png" width="300">
-  <img src="Kreditnote%20by%20Error%20Allyear.png" width="300
+  <img src="Analyse_of_Company_employee.png" width="250" />
+  <img src="Kreditnote_by_Error_2025.png" width="250" />
+  <img src="Kreditnote_by_Error_Allyear.png" width="250" />
+</p>
